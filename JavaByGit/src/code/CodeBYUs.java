@@ -5,6 +5,15 @@ public class CodeBYUs {
 		System.out.println("this is the new project");
 		System.out.println("this is the new project");
 		System.out.println("this is the new project");
+		System.out.println("this is the new project");
+		System.out.println("this is the new project");
+		System.out.println("this is the new project");
+		System.out.println("this is the new project");
+		System.out.println("this is the new project");
+		System.out.println("this is the new project");
+		System.out.println("this is the new project");
+		System.out.println("this is the new project");
+		System.out.println("this is the new project");
 	}
 
 }
